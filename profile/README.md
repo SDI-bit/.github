@@ -1,12 +1,18 @@
-## Hi there 👋
+# Student Developers Initiative
 
-<!--
+<a href="https://www.sdi-club.tech" target="_blank"><img src="https://github.com/SDI-bit/.github/blob/ef6859e4bbb4a1be1b524f299b0673ff88a157a4/profile/sdiclub.jpg" border="0" title="SDI-BIT" alt="SDI-BIT"></a>
 
-**Here are some ideas to get you started:**
+<h4>SDI-BIT is a student community with the aim of making tech more accessible as well create an impact in the society through Open-Source technology. </h4>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+[![Join Us](https://img.shields.io/badge/Join%20Us-SDI%20BIT%20Club-blue)](https://sdi-club.tech/register/)
+
+<br/>
+
+<div align="center">
+  <h3>Connect With us on</h3>
+  <a href="https://twitter.com/sdi_bit" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="https://in.linkedin.com/company/student-developers-initiative" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/sdibangalorebit" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
+</div>
