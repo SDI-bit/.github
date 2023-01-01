@@ -1,6 +1,6 @@
 # Student Developers Initiative
 
-<a href="https://www.sdi-club.tech" target="_blank"><img src="https://github.com/SDI-bit/.github/blob/ef6859e4bbb4a1be1b524f299b0673ff88a157a4/profile/sdiclub.jpg" border="0" title="SDI-BIT" alt="SDI-BIT"></a>
+<a href="https://www.sdi-club.tech" target="_blank"><img src="https://user-images.githubusercontent.com/79215056/210174194-13b568d5-a0a0-4046-b3e7-dd160a30ef7c.jpg" width="150" height="150" border="0" title="SDI-BIT" alt="SDI-BIT"></a>
 
 <h4>SDI-BIT is a student community with the aim of making tech more accessible as well create an impact in the society through Open-Source technology. </h4>
 
